@@ -1,0 +1,4 @@
+Homework assignment #2 for Structure of Operating Systems, class 046209
+The program is a bank system operating with commands from N atms between K accounts. The system is working concurrently using the reader-writer algorithm for transferring money from accounts.
+Compiled with Makefile using Ubuntu VM. bank.cpp main runs the program
+Note that input files must be in unix format - use dos2unix if not.
